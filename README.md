@@ -1,25 +1,50 @@
-<h1 align="center">Hi 👋, I'm Chakshit</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hello, I'm Chakshit Dhandli!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chakshit01&label=Profile%20views&color=0e75b6&style=flat" alt="chakshit01" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%5689FBA0&center=true&vCenter=true&lines=Frontend<3;">
+</div>
 
-- 🌱 I’m currently learning **Backend developement**
+<div align="center">
+  <img src = "https://user-images.githubusercontent.com/87887741/138137569-c03af614-7c08-43d8-b2ad-4ea28864022f.gif" width="100" height="100">
+  <img src="https://user-images.githubusercontent.com/87887741/138171656-80bfc204-e6c3-4a7d-83c2-5c003f671bf3.jpg" width="100" height="100">
+</div>
 
-- 📫 How to reach me **chakshitdhandli22@gmail.com**
+<!-- Language & Technology -->
+<h2 align = "center">⚡ Language & Technologies</h1>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,vite,nodejs,redux,git,linux">
+  <img src="https://skillicons.dev/icons?i=bash,postgresql,mongo,mysql"/>
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l-8NtpxLIklQBqjh7nYX4J9blg02DveG/view?usp=sharing](https://drive.google.com/file/d/1l-8NtpxLIklQBqjh7nYX4J9blg02DveG/view?usp=sharing)
+<!-- Github Statistics -->
+<h2 align="center">📈 GitHub Statistics</h2>
+<table align = "center">
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Chakshit01&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=synthwave"/>
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chakshit01&langs_count=10&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&hide_progress=true&theme=synthwave" />
+  </td>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chakshit dhandli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chakshit dhandli" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/professorxdc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="professorxdc" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chakshit01&theme=synthwave" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- Connect With Me -->
+<h2 align="center">🔗 Connect With Me</h2>
+<div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/chakshit-dhandli-4a7ba8241/"\>Visit🌐</a>&nbsp;&nbsp;
+</div>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chakshit01&show_icons=true&locale=en&layout=compact" alt="chakshit01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chakshit01&show_icons=true&locale=en" alt="chakshit01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chakshit01&" alt="chakshit01" /></p>
+<div align="center">
+  <a href="mailto:chakshitdhandli22@gmail.com?subject=Hello%20Chakshit,%20From%20Github"><img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="Chakshit" height="35" width="45" /></a>&nbsp;&nbsp;
+ </div>
+ 
+<!-- Visitor Count -->
+<h2 align="center">👀 Visitor Count</h2>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Chakshit01/count.svg" />
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
