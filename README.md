@@ -1,3 +1,5 @@
+![logo](http://getwallpapers.com/wallpaper/full/4/5/3/357907.jpg)
+
 <h1 align="center">Hello, I'm Chakshit Dhandli!</h1>
 
 <div align="center">
