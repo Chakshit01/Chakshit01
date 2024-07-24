@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Chakshit Dhandli!</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%5689FBA0&center=true&vCenter=true&lines=Frontend<3;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%5689FBA0&center=true&vCenter=true&lines=Frontend<3;Devops">
 </div>
 
 <div align="center">
